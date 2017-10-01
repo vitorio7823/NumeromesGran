@@ -6,7 +6,7 @@
 package numeromesgran;
 
 import java.util.Scanner;
-
+//////////////////////
 /**
  *
  * @author infot
